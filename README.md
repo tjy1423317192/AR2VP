@@ -2,7 +2,19 @@
 ![model_00](https://github.com/tjy1423317192/AR2VP/assets/64483944/5ab328a7-e69a-45c3-900c-ad2044a7e309)
 
 ## Requirements
-- [PyTorch >= version 1.4](https://pytorch.org)
+numpy
+torch
+opencv-python
+torchvision
+typing
+nuscenes-devkit==1.0.9
+pyquaternion
+numba
+matplotlib
+mmcv
+terminaltables
+shapely
+filterpy
 
 ## Datasets
 We follow [DiscoNet]([https://github.com/xyutao/fscil](https://github.com/ai4ce/DiscoNet)) setting to use the same data index_list for training. 
