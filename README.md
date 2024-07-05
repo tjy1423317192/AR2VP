@@ -1,1 +1,1 @@
-Environment Configuration Reference DiscoNet
+Environment Configuration and Usage Process Reference DiscoNet.
