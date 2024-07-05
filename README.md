@@ -6,9 +6,8 @@ Jiayao Tan, Fan Lyu, Linyan Li, Fuyuan Hu, Tingliang Feng, Fenglei Xu, Zhang Zha
 [requirements.txt](requirements.txt)
 
 ## Datasets
-We follow [Disco](https://github.com/ai4ce/DiscoNet) setting to use the same data index_list for training. 
-Please follow the guidelines in [DiscoNet]([url](https://github.com/ai4ce/DiscoNet)) to prepare them.
-[https://github.com/ai4ce/DiscoNet](#DiscoNet.)
+We follow [DiscoNet](https://github.com/ai4ce/DiscoNet) setting to use the same data index_list for training. 
+Please follow the guidelines in [DiscoNet](https://github.com/ai4ce/DiscoNet) to prepare them.
 
 ## Train
 python train_codet.py \
@@ -33,5 +32,5 @@ python test_codet.py \
     
 ## Acknowledgment
 Our project references the codes in the following repos.
-- [DiscoNet]([https://github.com/xyutao/fscil](https://github.com/ai4ce/DiscoNet))
-- [V2x-sim]([https://github.com/ai4ce/V2X-Sim])
+- [DiscoNet](https://github.com/ai4ce/DiscoNet)
+- [V2x-sim](https://github.com/ai4ce/V2X-Sim)
