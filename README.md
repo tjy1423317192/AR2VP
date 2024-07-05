@@ -3,12 +3,11 @@ Jiayao Tan, Fan Lyu, Linyan Li, Fuyuan Hu, Tingliang Feng, Fenglei Xu, Zhang Zha
 ![model_00](https://github.com/tjy1423317192/AR2VP/assets/64483944/5ab328a7-e69a-45c3-900c-ad2044a7e309)
 
 ## Requirements
-[Requirements.text](README1.md)
+[requirements.txt](requirements.txt)
 
 ## Datasets
-We follow [DiscoNet]([https://github.com/xyutao/fscil](https://github.com/ai4ce/DiscoNet)) setting to use the same data index_list for training. 
-Please follow the guidelines in [DiscoNet]([https://github.com/icoz69/CEC-CVPR2021 (https://github.com/ai4ce/DiscoNet)) to prepare them.
-
+We follow [DscoNet]([url](https://github.com/ai4ce/DiscoNet)) setting to use the same data index_list for training. 
+Please follow the guidelines in [DscoNet]([url](https://github.com/ai4ce/DiscoNet)) to prepare them.
 ## Train
 python train_codet.py \
     --data  /path/to/training/dataset \
