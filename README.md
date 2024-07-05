@@ -44,5 +44,5 @@ python test_codet.py \
     
 ## Acknowledgment
 Our project references the codes in the following repos.
-[DiscoNet]([https://github.com/xyutao/fscil](https://github.com/ai4ce/DiscoNet))
-[V2x-sim]([https://github.com/ai4ce/V2X-Sim])
+- [DiscoNet]([https://github.com/xyutao/fscil](https://github.com/ai4ce/DiscoNet))
+- [V2x-sim]([https://github.com/ai4ce/V2X-Sim])
