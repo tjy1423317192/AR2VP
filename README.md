@@ -6,9 +6,10 @@ Jiayao Tan, Fan Lyu, Linyan Li, Fuyuan Hu, Tingliang Feng, Fenglei Xu, Zhang Zha
 [requirements.txt](requirements.txt)
 
 ## Datasets
-We follow [DiscoNet]([url](https://github.com/ai4ce/DiscoNet)) setting to use the same data index_list for training. 
+We follow [Disco](https://github.com/ai4ce/DiscoNet) setting to use the same data index_list for training. 
 Please follow the guidelines in [DiscoNet]([url](https://github.com/ai4ce/DiscoNet)) to prepare them.
 [https://github.com/ai4ce/DiscoNet](#DiscoNet.)
+
 ## Train
 python train_codet.py \
     --data  /path/to/training/dataset \
