@@ -10,7 +10,7 @@ We follow [DiscoNet](https://github.com/ai4ce/DiscoNet) setting to use the same 
 Please follow the guidelines in [DiscoNet](https://github.com/ai4ce/DiscoNet) to prepare them.
 
 ## Detection / segmentation:
-- Train
+### Train
 python train_codet.py \
     --data  /path/to/training/dataset \
     --com disco \
@@ -21,7 +21,7 @@ python train_codet.py \
     --logpath logs \
     --nepoch 100 \
     -- rsu [0/1]
-- Test
+### Test
 python test_codet.py \
     --data /path/to/testing/dataset \
     --com disco \
